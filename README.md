@@ -590,7 +590,8 @@ depending on **which component is improved** during learning and adaptation.
   | 2026 | Harness Handbook: Making Evolving Agent Harnesses Readable, Navigable, and Editable | arXiv | [paper](https://arxiv.org/pdf/2607.13285) | [code](https://github.com/Ruhan-Wang/Harness_Handbook) |
   | 2026 | Meta^n: Recursive Self-Improvement through Emergent Depth | arXiv | [paper](https://arxiv.org/pdf/2608.24735) | [code](https://github.com/minnesotanlp/meta-n) |  
   | 2026 | Prime Agent: A Self-Improving RLM Harness | arXiv | [paper](https://arxiv.org/pdf/2608.23552) | [code](https://github.com/PrimeIntellect-ai/prime-agent) |  
-  | 2026 | HarnessDev: Can LLMs Create and Evolve Their Own Agent Harness? | arXiv | [paper](https://arxiv.org/pdf/2609.01437) | N/A | 
+  | 2026 | HarnessDev: Can LLMs Create and Evolve Their Own Agent Harness? | arXiv | [paper](https://arxiv.org/pdf/2609.01437) | N/A |
+  | 2026 | EvoSafeHarness: Evolving Model- and Domain-Specific Harnesses for Securing Agents | arXiv | [paper](https://arxiv.org/abs/2609.05903) | [code](https://github.com/SaFo-Lab/EvoSafeHarness) |
 </details>
 
 ---
