@@ -592,6 +592,8 @@ depending on **which component is improved** during learning and adaptation.
   | 2026 | Prime Agent: A Self-Improving RLM Harness | arXiv | [paper](https://arxiv.org/pdf/2608.23552) | [code](https://github.com/PrimeIntellect-ai/prime-agent) |  
   | 2026 | HarnessDev: Can LLMs Create and Evolve Their Own Agent Harness? | arXiv | [paper](https://arxiv.org/pdf/2609.01437) | N/A |
   | 2026 | EvoSafeHarness: Evolving Model- and Domain-Specific Harnesses for Securing Agents | arXiv | [paper](https://arxiv.org/abs/2609.05903) | [code](https://github.com/SaFo-Lab/EvoSafeHarness) |
+  | 2026 | MetaRSI / RSI2: A Meta-Recursive Self-Improving System for Recursive Self-Improving Systems Themselves | arXiv | [paper](https://arxiv.org/abs/2609.06396) | [code](https://github.com/CosmosMind-ai/RSI-Harness) |
+  
 </details>
 
 ---
