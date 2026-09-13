@@ -266,6 +266,7 @@ depending on **which component is improved** during learning and adaptation.
   | 2026 | Socratic-SWE: Self-Evolving Coding Agents via Trace-Derived Agent Skills | arXiv | [paper](https://arxiv.org/abs/2606.07412) | N/A |
   | 2026 | Self-evolving LLM Agents with In-Distribution Optimization | ICML | [paper](https://arxiv.org/abs/2606.07367) | N/A |
   | 2026 | Skill Self-Play: Pushing the Frontier of LLM Capability with Co-Evolving Skills | arXiv | [paper](https://arxiv.org/abs/2607.22529) | [code](https://github.com/Qwen-Applications/skill-self-play) |
+  | 2026 | EnvHarness: Awakening Static Worlds for Agent Learning | arXiv | [paper](https://arxiv.org/abs/2608.19880) | [code](https://github.com/google-research/envharness) |
 
   </details>
 
