@@ -459,6 +459,7 @@ depending on **which component is improved** during learning and adaptation.
   | 2025 | Dynamic Cheatsheet: Test-Time Learning with Adaptive Memory | arXiv | [paper](https://arxiv.org/abs/2504.07952) | [code](https://github.com/suzgunmirac/dynamic-cheatsheet) |
   | 2025 | MLC-Agent: Cognitive Model based on Memory-Learning Collaboration in LLM Empowered Agent Simulation Environment | arXiv | [paper](https://arxiv.org/abs/2507.20215) | N/A |
   | 2026 | ForeDreamer: A Self-Evolving Dual-Agent Memory Architecture for Future Event Prediction | EMNLP Findings | [paper](https://arxiv.org/abs/2608.20920) | [code](https://github.com/zhongzero/ForeDreamer) |
+  | 2026 | Meta Context Engineering via Agentic Skill Evolution | ICML | [paper](https://arxiv.org/abs/2601.21557) | [code](https://github.com/metaevo-ai/meta-context-engineering) |
   | 2025 | MemInsight: Autonomous Memory Augmentation for LLM Agents | arXiv | [paper](https://arxiv.org/abs/2503.21760) | N/A |
   | 2026 | Agentic Context Engineering: Evolving Contexts for Self-Improving Language Models | ICLR | [paper](https://arxiv.org/abs/2510.04618) | [code](https://github.com/ace-agent/ace) |
   | 2026 | MemRL: Self-Evolving Agents via Runtime Reinforcement Learning on Episodic Memory | arXiv | [paper](https://arxiv.org/abs/2601.03192) | [code](https://github.com/MemTensor/MemRL) |
@@ -593,6 +594,7 @@ depending on **which component is improved** during learning and adaptation.
   | 2026 | HarnessDev: Can LLMs Create and Evolve Their Own Agent Harness? | arXiv | [paper](https://arxiv.org/pdf/2609.01437) | N/A |
   | 2026 | EvoSafeHarness: Evolving Model- and Domain-Specific Harnesses for Securing Agents | arXiv | [paper](https://arxiv.org/abs/2609.05903) | [code](https://github.com/SaFo-Lab/EvoSafeHarness) |
   | 2026 | MetaRSI / RSI2: A Meta-Recursive Self-Improving System for Recursive Self-Improving Systems Themselves | arXiv | [paper](https://arxiv.org/abs/2609.06396) | [code](https://github.com/CosmosMind-ai/RSI-Harness) |
+  | 2026 | Harness-Zero: Harness Distillation via Agent-as-Harness | arXiv | [paper](https://arxiv.org/abs/2609.24974) | [code](https://github.com/metaevo-ai/harness-zero) |
   
 </details>
 
